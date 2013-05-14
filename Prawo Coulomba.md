@@ -3,7 +3,7 @@
 Prawo Coulomba mówi, że siła wzajemnego oddziaływania dwóch punktowych ładunków elektrycznych jest 
 wprost proporcjonalna do iloczynu tych ładunków i odwrotnie proporcjonalna do kwadratu odległości między nimi.
 
-## F=k*|q1|*|q2|/r^2
+#### F=k*|q1|*|q2|/r^2
 
 gdzie:
  - F - sila elektrostatyczna
