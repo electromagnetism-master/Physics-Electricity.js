@@ -1,4 +1,2 @@
-Physics-Electricity.js
-======================
-
-Projekt edukacyjny -  Wprowadzenie do elektryki.
+## Wykładowcy
+Maciej Czyżewski, Adrian Koźluk, Krzysztof Małysa, Jakub Szcześniak, Paweł Poczobut.
