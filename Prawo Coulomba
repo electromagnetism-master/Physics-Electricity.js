@@ -1,0 +1,14 @@
+##Prawo Coulomba
+
+Prawo Coulomba mówi, że siła wzajemnego oddziaływania dwóch punktowych ładunków elektrycznych jest 
+wprost proporcjonalna do iloczynu tych ładunków i odwrotnie proporcjonalna do kwadratu odległości między nimi.
+
+##F=k*|q1|*|q2|/r^2
+
+gdzie:
+ - F - sila elektrostatyczna
+ - k - stala elektrostatyczna ( k=1/4(pi)(epsilon0)=~8,99*10^9 N*m^2/C^2 )
+ - r - odlegosć miedzy ladunkami
+ - qi - ladunek i-tego punktowego ladunku elektrycznego
+
+Adrian Kozluk
